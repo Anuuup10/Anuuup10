@@ -34,7 +34,6 @@
 
 ## 🌱 Currently Learning
 - ⚙️ **Backend architectures** with Express + Angular 
-- 🧩 **Type‑safe APIs** using tRPC  
 - 🧠 **Machine Learning fundamentals** (via Python)  
 - 🌍 **Open Source contribution** (starting small!)
 
