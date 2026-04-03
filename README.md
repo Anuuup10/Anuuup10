@@ -1,57 +1,68 @@
----
+# 👋 Hey there, I'm Anup Chaudhary!  
 
-<h1 align="center">👋 Hi, I'm Anup Chaudhary!</h1>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHduazRlY2Fra251OW5zaHBocmg4cHZ0Ym92a3Z5MnZvdmlveXVjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="400" />
-</div>
+🎓 **CS Student | 💻 Aspiring Full‑Stack Developer | 🚀 Tech Enthusiast**
 
 ---
 
-### 🔍 About Me:
-- 🔭 **Currently Student At:** [Biratnagar International College](https://bicnepal.edu.np/)      
-- 💬 **Ask Me About:** Python, Java, C#, PHP, React and Machine Learning 
-- 📫 **Reach Me At:** (anupchaudhary048@gmail.com)  
-- ⚡ **Fun Fact:** I turn ☕ into 💻 and 😊  
+## 🧭 About Me
+- 🎯 I’m currently studying **Computer Science** at [Biratnagar International College]
+- 🌱 Learning **React.js**, **Express.js**, and **Java**
+- 💡 I enjoy building full‑stack web apps and solving real‑world problems
+- 📚 Always curious about **AI**, **Open Source**, and **Developer Tools**
+- 🎵 When I’m not coding, you’ll find me playing games or exploring nature
 
 ---
 
-### 🌐 Connect With Me:
-<p >
-  <a href="https://www.linkedin.com/in/anup-chaudhary-3425933a2/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/anup.xhaudhary" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/anuuup_10/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Frameworks
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D7?style=flat&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
-### 🛠️ Languages & Tools:
-#### 💻 Programming Languages:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-</p>
+## 🌱 Currently Learning
+- ⚙️ **Backend architectures** with Express + Angular 
+- 🧩 **Type‑safe APIs** using tRPC  
+- 🧠 **Machine Learning fundamentals** (via Python)  
+- 🌍 **Open Source contribution** (starting small!)
 
-#### 🎨 Frontend Development:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-</p>
+---
 
-#### ⚙️ DevOps & Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-</p>
+## 🚧 Featured Projects
+⭐ **Features:** group rooms, todo sync, and live chat.
 
-#### 🤖 Machine Learning & Data Analysis:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40" />
-</p>
+
+### 📊 [CodeTrack](https://github.com/Anuuup10)
+> CLI tool that tracks daily coding time and generates productivity charts.
+
+---
+
+
+---
+
+## 🏆 Badges & Activity
+![Commit Activity](https://img.shields.io/github/commit-activity/m/Anuuup10
+/Anuuup10
+?color=brightgreen)
+
+---
+
+## 💬 Connect With Me
+[![LinkedIn](https://www.linkedin.com/in/anup-chaudhary-3425933a2/)
+[![Facebook](https://www.facebook.com/anup.xhaudhary)
+[![Instagram](https://www.instagram.com/anuuup_10/)
+---
+
+💬 *“Code. Learn. Share.”* — building a little better every day 🚀
