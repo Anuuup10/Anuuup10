@@ -40,29 +40,53 @@
 
 ---
 
-## 🚧 Featured Projects
-⭐ **Features:** group rooms, todo sync, and live chat.
-
-
-### 📊 [CodeTrack](https://github.com/Anuuup10)
-> CLI tool that tracks daily coding time and generates productivity charts.
-
----
-
-
----
-
-## 🏆 Badges & Activity
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Anuuup10
-/Anuuup10
-?color=brightgreen)
+### 🌐 Connect With Me:
+<p >
+  <a href="https://www.linkedin.com/in/anup-chaudhary-3425933a2/?skipRedirect=true">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/anup.xhaudhary">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/anuuup_10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 💬 Connect With Me
-[![LinkedIn](https://www.linkedin.com/in/anup-chaudhary-3425933a2/)
-[![Facebook](https://www.facebook.com/anup.xhaudhary)
-[![Instagram](https://www.instagram.com/anuuup_10/)
----
+### 🛠️ Languages & Tools:
+#### 💻 Programming Languages:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+</p>
 
+#### 🔧 Backend Development:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+</p>
+
+#### 🎨 Frontend Development:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+</p>
+
+#### ⚙️ DevOps & Tools:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+</p>
+
+#### 🤖 Machine Learning & Data Analysis:
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" alt="Matplotlib" width="40" height="40" />
+</p>
+
+---
 💬 *“Code. Learn. Share.”* — building a little better every day 🚀
