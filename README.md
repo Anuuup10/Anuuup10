@@ -5,8 +5,8 @@
 ---
 
 ## 🧭 About Me
-- 🎯 I’m currently studying **Computer Science** at [Biratnagar International College]
-- 🌱 Learning **React.js**, **Express.js**, and **Java**
+- 🎯 I’m currently studying **Computer Science** at **Biratnagar International College**
+- 🌱 Learning **React.js**, **Express.js**, and **MongoDB**
 - 💡 I enjoy building full‑stack web apps and solving real‑world problems
 - 📚 Always curious about **AI**, **Open Source**, and **Developer Tools**
 - 🎵 When I’m not coding, you’ll find me playing games or exploring nature
@@ -20,7 +20,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### ☁️ Tools & Platforms
@@ -32,7 +31,7 @@
 ---
 
 ## 🌱 Currently Learning
-- ⚙️ **Backend architectures** with Express + Angular 
+- ⚙️ **Backend architectures** with Express 
 - 🧠 **Machine Learning fundamentals** (via Python)  
 - 🌍 **Open Source contribution** (starting small!)
 
