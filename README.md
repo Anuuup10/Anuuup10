@@ -76,11 +76,9 @@ I’m focused on becoming a well-rounded full-stack developer by building practi
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuuup10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuuup10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
