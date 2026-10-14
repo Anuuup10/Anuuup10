@@ -86,7 +86,10 @@ I’m focused on becoming a well-rounded full-stack developer by building practi
 ## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anuuup10/Anuuup10/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
+  <img
+    src="https://raw.githubusercontent.com/Anuuup10/Anuuup10/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated contribution snake"
+  />
 </p>
 
 ---
